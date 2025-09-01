@@ -1,1 +1,1 @@
-https://edimax-app.github.io/GoViewer/mercury/UAT5/AdHoc.html
+https://appedxtestpass168.github.io/GoViewer/Android/mercury/UAT5/AdHoc.html
